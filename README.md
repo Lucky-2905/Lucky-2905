@@ -8,7 +8,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/Lucky-2905?style=for-the-badge&logo=github&color=7dd3fc&labelColor=0b1220" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Lucky-2905/SpendSense?style=for-the-badge&logo=github&label=SpendSense%20stars&color=7dd3fc&labelColor=0b1220" alt="SpendSense stars" />
+
 
 </div>
 
