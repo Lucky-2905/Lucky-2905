@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050a18" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0c2340"/>
+    </linearGradient>
+    <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="0.5" stop-color="#e0f2fe"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .star { fill: #e0f2fe; animation: tw 3s ease-in-out infinite; }
+    @keyframes tw { 0%,100% { opacity: .1; } 50% { opacity: 1; } }
+    .msg { font-family: 'Segoe UI', Arial, sans-serif; font-size: 26px; font-weight: 600; letter-spacing: 3px; animation: fade 4s ease-in-out infinite; }
+    @keyframes fade { 0%,100% { opacity: .75; } 50% { opacity: 1; } }
+    .w1 { fill: #7dd3fc; opacity: .22; animation: slide 14s linear infinite; }
+    .w2 { fill: #7dd3fc; opacity: .38; animation: slide 9s linear infinite; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-300px); } }
+  </style>
+  <rect width="1200" height="180" fill="url(#bg)"/>
+  <circle class="star" cx="120" cy="40" r="2" style="animation-delay:0s"/>
+  <circle class="star" cx="300" cy="90" r="1.5" style="animation-delay:.8s"/>
+  <circle class="star" cx="470" cy="30" r="2.2" style="animation-delay:1.6s"/>
+  <circle class="star" cx="700" cy="70" r="1.6" style="animation-delay:.4s"/>
+  <circle class="star" cx="880" cy="35" r="2" style="animation-delay:1.2s"/>
+  <circle class="star" cx="1060" cy="85" r="1.5" style="animation-delay:2s"/>
+  <text class="msg" x="600" y="82" text-anchor="middle" fill="url(#txt)">THANKS FOR VISITING ✦ KEEP BUILDING</text>
+  <path class="w1" d="M0 130 Q75 104 150 130 T300 130 T450 130 T600 130 T750 130 T900 130 T1050 130 T1200 130 T1350 130 T1500 130 V180 H0 Z"/>
+  <path class="w2" d="M0 152 Q75 130 150 152 T300 152 T450 152 T600 152 T750 152 T900 152 T1050 152 T1200 152 T1350 152 T1500 152 V180 H0 Z"/>
+</svg>
