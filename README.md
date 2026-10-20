@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="assets/https://raw.githubusercontent.com/Lucky-2905/Lucky-2905/main/banner.svg" alt="Lavanya - Computer Science Engineering Student" width="100%" />
-
+<img src="https://raw.githubusercontent.com/Lucky-2905/Lucky-2905/main/banner.svg" alt="Lavanya - Computer Science Engineering Student" width="100%" />
 <a href="https://github.com/Lucky-2905">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7dd3fc&center=true&vCenter=true&width=700&lines=CS+Engineering+Student;Building+SpendSense%2C+an+Android+expense+tracker;Learning+Kotlin+with+AI+assistance;Improving+DSA+and+problem-solving" alt="Typing SVG" />
 </a>
