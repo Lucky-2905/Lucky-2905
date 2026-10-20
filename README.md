@@ -8,6 +8,9 @@
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/Lucky-2905?style=for-the-badge&logo=github&color=7dd3fc&labelColor=0b1220" alt="GitHub followers" />
+<a href="https://github.com/Lucky-2905/SpendSense">
+  <img src="https://img.shields.io/badge/ANDROID%20PROJECT-SpendSense-7dd3fc?style=for-the-badge&logo=android&logoColor=0b1220&labelColor=0b1220" alt="SpendSense Android project" />
+</a>
 
 
 </div>
