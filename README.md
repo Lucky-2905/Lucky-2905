@@ -118,4 +118,4 @@ A frontend project built using HTML and CSS to recreate the YouTube interface.
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting" />
+<img src="https://raw.githubusercontent.com/Lucky-2905/Lucky-2905/main/footer.svg" width="100%" alt="Thanks for visiting" />
