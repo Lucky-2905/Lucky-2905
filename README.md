@@ -38,7 +38,7 @@ const lavanya = {
 A personal expense-tracking Android app that detects payment notifications and helps categorize expenses.
 
 <a href="https://github.com/Lucky-2905/SpendSense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lucky-2905&repo=SpendSense&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="SpendSense repo card" />
+  <img src="https://img.shields.io/badge/Android_Project-SpendSense-7dd3fc?style=for-the-badge&logo=android&logoColor=0b1220&labelColor=0b1220" alt="SpendSense Android project" />
 </a>
 
 | Layer | Technology |
