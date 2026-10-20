@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Lucky-2905/Lucky-2905/main/divider.svg" width="100%" alt="" />
 
 ## 👩‍💻 Who I Am
 
@@ -29,7 +29,7 @@ const lavanya = {
 };
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Lucky-2905/Lucky-2905/main/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -61,7 +61,7 @@ A frontend project built using HTML and CSS to recreate the YouTube interface.
 
 [![Live](https://img.shields.io/badge/Live-Demo-7dd3fc?style=for-the-badge&logo=vercel&logoColor=0b1220&labelColor=0b1220)](https://portfolio-j7s5.vercel.app/)
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Lucky-2905/Lucky-2905/main/divider.svg" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -77,7 +77,7 @@ A frontend project built using HTML and CSS to recreate the YouTube interface.
 
 <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode&theme=dark" alt="Dev tools" />
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Lucky-2905/Lucky-2905/main/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Stats
 
@@ -92,7 +92,7 @@ A frontend project built using HTML and CSS to recreate the YouTube interface.
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Lucky-2905/Lucky-2905/main/divider.svg" width="100%" alt="" />
 
 ## 🐍 Contribution Snake
 
@@ -105,7 +105,7 @@ A frontend project built using HTML and CSS to recreate the YouTube interface.
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Lucky-2905/Lucky-2905/main/divider.svg" width="100%" alt="" />
 
 ## 🤝 Connect
 
